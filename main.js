@@ -1,0 +1,1 @@
+var numInput = document.getElementById('numInput');
